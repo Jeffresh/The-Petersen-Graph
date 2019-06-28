@@ -2,7 +2,7 @@
 
 ## Abstract
 
-A program to demonstrate if the Petersen graph is n-colorable graph , and the relations of the colorable problem with the clique problem. To do that i will use a (polynomial) reduction of this problem to SAT problem. So, with this application, you can get the necessary proof to know about why the chromatic number of the Petersen graph is three and the relation of the chromatic number and the clique number, which is two, of this graph.  
+A program to demostrate if the Petersen graph is n-colorable graph , and the relations of the colorable problem with the clique problem. To do that i will use a (polynomial) reduction of this problem to SAT problem. So, with this application, you can get the necessary proof to know about why the chromatic number of the Petersen graph is three and the relation of the chromatic number and the clique number, which is two, of this graph.  
 
 
 
